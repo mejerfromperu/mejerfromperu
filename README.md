@@ -23,3 +23,11 @@ I’m a dedicated Computer Science student graduating in January 2026, with a pa
 <br />
 
 #
+
+### About Me
+- 🎓 **Studying**: Computer Science (Graduating Nov 2025)
+- 💡 **Love**: Learning new tech and perfecting my coding skills
+- ⚡ **Traits**: Hardworking, loyal, and always up for a challenge
+- 📫 **Contact**: [your-email@example.com] | [LinkedIn URL if you have one]
+
+---
