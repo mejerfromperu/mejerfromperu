@@ -28,6 +28,6 @@ I’m a dedicated Computer Science student graduating in January 2026, with a pa
 - 🎓 **Studying**: Computer Science (Graduating Jan 2026)
 - 💡 **Love**: Learning new tech and perfecting my coding skills
 - ⚡ **Traits**: Hardworking, loyal, and always up for a challenge
-- 📫 **Contact**: [christianmejer7@gmail.com] | [LinkedIn : ]
+- 📫 **Contact**: [christianmejer7@gmail.com] | [LinkedIn : https://www.linkedin.com/in/christian-mejer-20075234b/ ]
 
 ---
